@@ -4,4 +4,4 @@
 
 ![Project Task Recording](image1.png)
 
-![Project Task Recording](https://raw.githubusercontent.com/TarunVishwakarma1/rust-dockable-app-assignment/main/recording.mp4)
+![Project Task Recording](https://github.com/TarunVishwakarma1/rust-dockable-app-assignment/blob/main/recording.mp4)
