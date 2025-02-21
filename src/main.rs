@@ -102,7 +102,7 @@ impl TaskRecorderApp {
         for event in events.iter() {
             if let Err(err) = writeln!(
                 file,
-                "{},{},{},{},{}",
+                "{},({}),{},{},{}",
                 event.event_type, event.button_or_key, event.action, event.position, event.timestamp
             ) {
                 error!("Failed to write event to CSV file: {:?}", err);
