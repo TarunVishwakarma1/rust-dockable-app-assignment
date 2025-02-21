@@ -1,0 +1,9 @@
+/Users/tarunvishwakarma/Documents/MacVSCode/Web3/rust-cohort/rust-proj-task-recording/target/debug/deps/libcocoa_foundation-70f749887b8ea118.rmeta: /Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-foundation-0.1.2/src/lib.rs /Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-foundation-0.1.2/src/base.rs /Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-foundation-0.1.2/src/foundation.rs
+
+/Users/tarunvishwakarma/Documents/MacVSCode/Web3/rust-cohort/rust-proj-task-recording/target/debug/deps/libcocoa_foundation-70f749887b8ea118.rlib: /Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-foundation-0.1.2/src/lib.rs /Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-foundation-0.1.2/src/base.rs /Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-foundation-0.1.2/src/foundation.rs
+
+/Users/tarunvishwakarma/Documents/MacVSCode/Web3/rust-cohort/rust-proj-task-recording/target/debug/deps/cocoa_foundation-70f749887b8ea118.d: /Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-foundation-0.1.2/src/lib.rs /Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-foundation-0.1.2/src/base.rs /Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-foundation-0.1.2/src/foundation.rs
+
+/Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-foundation-0.1.2/src/lib.rs:
+/Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-foundation-0.1.2/src/base.rs:
+/Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-foundation-0.1.2/src/foundation.rs:

@@ -1,0 +1,10 @@
+/Users/tarunvishwakarma/Documents/MacVSCode/Web3/rust-cohort/rust-proj-task-recording/target/debug/deps/libcocoa-3837fc98143b5daf.rmeta: /Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-0.25.0/src/lib.rs /Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-0.25.0/src/appkit.rs /Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-0.25.0/src/base.rs /Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-0.25.0/src/foundation.rs /Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-0.25.0/src/quartzcore.rs /Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-0.25.0/src/macros.rs
+
+/Users/tarunvishwakarma/Documents/MacVSCode/Web3/rust-cohort/rust-proj-task-recording/target/debug/deps/cocoa-3837fc98143b5daf.d: /Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-0.25.0/src/lib.rs /Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-0.25.0/src/appkit.rs /Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-0.25.0/src/base.rs /Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-0.25.0/src/foundation.rs /Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-0.25.0/src/quartzcore.rs /Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-0.25.0/src/macros.rs
+
+/Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-0.25.0/src/lib.rs:
+/Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-0.25.0/src/appkit.rs:
+/Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-0.25.0/src/base.rs:
+/Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-0.25.0/src/foundation.rs:
+/Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-0.25.0/src/quartzcore.rs:
+/Users/tarunvishwakarma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cocoa-0.25.0/src/macros.rs:

@@ -1,0 +1,1 @@
+/Users/tarunvishwakarma/Documents/MacVSCode/Web3/rust-cohort/rust-proj-task-recording/target/debug/rust-proj-task-recording: /Users/tarunvishwakarma/Documents/MacVSCode/Web3/rust-cohort/rust-proj-task-recording/src/main.rs
